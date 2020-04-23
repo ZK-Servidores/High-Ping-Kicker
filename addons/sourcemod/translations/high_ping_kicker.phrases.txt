@@ -1,0 +1,25 @@
+﻿//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+"Phrases"
+{
+/******************* PLUGIN: HIGH PING KICKER *******************/
+	"High Ping Kicker Kick"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"en"		"{NORMAL}[ {DARKRED}HIGH PING KICKER{NORMAL} ] {PINK}{1}{GREEN} have beed kicked. (Ping: {DARKRED}{2}{GREEN}, Max: {DARKRED}{3}{GREEN})"
+		"pt"		"{NORMAL}[ {DARKRED}HIGH PING KICKER{NORMAL} ] {PINK}{1}{GREEN} foi kickado. (Ping: {DARKRED}{2}{GREEN}, Max: {DARKRED}{3}{GREEN})"
+		"fr"		"{NORMAL}[ {DARKRED}HIGH PING KICKER{NORMAL} ] {PINK}{1}{GREEN} a été kické. (Ping: {DARKRED}{2}{GREEN}, Max: {DARKRED}{3}{GREEN})"
+	}
+	"High Ping Kicker Kick me"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Your ping is too high: {1}, Max: {2}"
+		"pt"		"Seu ping é muito alto: {1}, Max: {2}"
+		"fr"		"Votre ping est trop élevé: {1}, Max: {2}"
+	}
+/******************* PLUGIN: HIGH PING KICKER *******************/
+}
