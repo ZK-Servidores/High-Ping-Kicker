@@ -4,7 +4,7 @@ Kick players that exceed the configured ping limit.
 - Option to translate messages;
 - Immunity for players with privileges;
 - Configure the allowed ping limit;
-- Check number before being kicked due to high ping;
+- Configures verification number before being kicked due to high ping;
 
 ## Cvars
 - `drapi_high_ping_kicker_max_ping` - Max ping allowed;
