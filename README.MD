@@ -1,5 +1,10 @@
 # High Ping Kicker
-This is plugin made long time ago and didn't remeber from who I took the code. Anyway I re-made it for me and my friends cause when a stranger was kick cause of his ping you could see in chat the wrong language.
+Kick players that exceed the configured ping limit.
+
+- Option to translate messages;
+- Immunity for players with privileges;
+- Configure the allowed ping limit;
+- Check number before being kicked due to high ping;
 
 ## Cvars
 - `drapi_high_ping_kicker_max_ping` - Max ping allowed;
@@ -8,4 +13,4 @@ This is plugin made long time ago and didn't remeber from who I took the code. A
 - `drapi_high_ping_kicker_admin_immune` - Enable/Disable Admin immunity;
 
 ## Credits
-(Dr. API)[https://forums.alliedmods.net/member.php?u=259137] - Modified from yours (Fork)[https://forums.alliedmods.net/showthread.php?p=2312387];
+[Dr. API](https://forums.alliedmods.net/member.php?u=259137) - Modified from yours [Fork](https://forums.alliedmods.net/showthread.php?p=2312387);
