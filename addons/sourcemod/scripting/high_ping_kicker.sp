@@ -71,9 +71,9 @@ public void OnPluginStart()
 	cvar_active_high_ping_kicker_csgo 					= AutoExecConfig_CreateConVar("active_high_ping_kicker",  		"1", 		"Enable/Disable Sounds Kill", 					DEFAULT_FLAGS, 		true, 0.0, 		true, 1.0);
 	cvar_active_high_ping_kicker_csgo_dev				= AutoExecConfig_CreateConVar("active_high_ping_kicker_dev", 	"0", 		"Enable/Disable Sounds Kill Dev Mod",		 	DEFAULT_FLAGS, 		true, 0.0, 		true, 1.0);
 	
-	cvar_active_high_ping_kicker_max_ping_csgo			= AutoExecConfig_CreateConVar("high_ping_kicker_max_ping", 		"160", 		"Max ping allowed", 							DEFAULT_FLAGS);
+	cvar_active_high_ping_kicker_max_ping_csgo			= AutoExecConfig_CreateConVar("high_ping_kicker_max_ping", 		"150", 		"Max ping allowed", 							DEFAULT_FLAGS);
 	cvar_active_high_ping_kicker_max_checks_csgo		= AutoExecConfig_CreateConVar("high_ping_kicker_max_checks", 	"5", 		"Number of max checks after kick", 				DEFAULT_FLAGS);
-	cvar_active_high_ping_kicker_start_check_csgo		= AutoExecConfig_CreateConVar("high_ping_kicker_start_check", 	"15.0", 	"Time after timer start", 						DEFAULT_FLAGS);
+	cvar_active_high_ping_kicker_start_check_csgo		= AutoExecConfig_CreateConVar("high_ping_kicker_start_check", 	"10.0", 	"Time after timer start", 						DEFAULT_FLAGS);
 	cvar_active_high_ping_kicker_admin_immune_csgo		= AutoExecConfig_CreateConVar("high_ping_kicker_admin_immune", 	"1", 		"Enable/Disable Admin immunity", 				DEFAULT_FLAGS);
 	cvar_active_high_ping_kicker_immune_flag_csgo		= AutoExecConfig_CreateConVar("high_ping_kicker_immune_flag", 	"", 		"Admin flag for immunity, blank=any flag", 		DEFAULT_FLAGS);
 	
