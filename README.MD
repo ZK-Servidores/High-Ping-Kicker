@@ -1,6 +1,5 @@
 # High Ping Kicker
 Kick players that exceed the configured ping limit.
-
 - Option to translate messages;
 - Immunity for players with privileges;
 - Configure the allowed ping limit;

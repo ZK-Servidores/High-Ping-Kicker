@@ -49,11 +49,11 @@ int C_client_failed[MAXPLAYERS+1];
 int C_client_ping[MAXPLAYERS+1];
 int C_admin_flag;
 
-//Informations plugin
+//Informations Plugin
 public Plugin myinfo =
 {
 	name = "[ ZK Servidores™ ] - High Ping Kicker",
-	author = "Dr. Api - Edited: crashzk",
+	author = "Dr. Api, crashzk",
 	description = "High Ping Kicker",
 	version = PLUGIN_VERSION_HIGH_PING_KICKER_CSGO,
 	url = ""
