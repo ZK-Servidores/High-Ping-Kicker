@@ -52,7 +52,7 @@ int C_admin_flag;
 //Informations Plugin
 public Plugin myinfo =
 {
-	name = "[ ZK Servidores™ ] - High Ping Kicker",
+	name = "[ ZK Servidores™ ] High Ping Kicker",
 	author = "Dr. Api, crashzk",
 	description = "High Ping Kicker",
 	version = PLUGIN_VERSION_HIGH_PING_KICKER_CSGO,
