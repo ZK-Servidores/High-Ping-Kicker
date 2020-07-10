@@ -12,4 +12,5 @@ Kick players that exceed the configured ping limit.
 - `drapi_high_ping_kicker_admin_immune` - Enable/Disable Admin immunity;
 
 ## Credits
-[Dr. API](https://forums.alliedmods.net/member.php?u=259137) - Modified from yours [Fork](https://forums.alliedmods.net/showthread.php?p=2312387);
+- [Dr. API](https://forums.alliedmods.net/member.php?u=259137) - Modified from yours [Fork](https://forums.alliedmods.net/showthread.php?p=2312387);
+- [crashzk](https://github.com/crashzk) - Fix small errors;
