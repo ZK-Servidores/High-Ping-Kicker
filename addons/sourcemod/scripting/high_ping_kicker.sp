@@ -56,7 +56,7 @@ public Plugin myinfo =
 	author = "Dr. Api, crashzk",
 	description = "High Ping Kicker",
 	version = PLUGIN_VERSION_HIGH_PING_KICKER_CSGO,
-	url = ""
+	url = "https://github.com/zkservidores-clientes"
 }
 /***********************************************************/
 /*********************** PLUGIN START **********************/
