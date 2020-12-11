@@ -63,8 +63,9 @@ public Plugin myinfo =
 /***********************************************************/
 public void OnPluginStart()
 {
-	AutoExecConfig_SetFile("high_ping_kicker", "sourcemod");
 	LoadTranslations("high_ping_kicker.phrases");
+
+	AutoExecConfig_SetFile("high_ping_kicker", "sourcemod");
 	
 	AutoExecConfig_CreateConVar("high_ping_kicker_version", PLUGIN_VERSION_HIGH_PING_KICKER_CSGO, "Version", CVARS);
 	
